@@ -1,7 +1,5 @@
 package main
 
-import "getbvgsite"
-
 func main(){
     //get the website
 	getsite()
